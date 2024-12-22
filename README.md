@@ -1,4 +1,4 @@
-![Banner GIF](./chinese-night-city.gif)
+<img src="./chinese-night-city.gif" alt="Banner" width="320" height="320"/>
 
 ## Sobre meus projetos ✍
 
