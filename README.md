@@ -1,7 +1,7 @@
 # Sejam bem-vindos ao meu perfil!
 
 Aqui você irá encontrar projetos diversos, incluindo programação de baixo e alto nível de abstração.\
-Já trabalhei em repositórios que abordam as seguintes áreas:\\
+Já trabalhei em repositórios que abordam as seguintes áreas:\
 * 🔒 Criptografia
 * 🤖 Robótica
 * 📞 Redes de computadores
