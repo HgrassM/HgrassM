@@ -1,16 +1,15 @@
-## Hi there 👋
+# Sejam bem-vindos ao meu perfil!
 
-<!--
-**HgrassM/HgrassM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aqui você irá encontrar projetos diversos, incluindo programação de baixo e alto nível de abstração.
+Já trabalhei em repositórios que abordam as seguintes áreas:
+*🔒 Criptografia
+*🤖 Robótica
+*📞 Redes de computadores
+*🖥 Desenvolvimento web
+*📱 Desenvolvimento mobile
 
-Here are some ideas to get you started:
+Dentre os meus maiores interesses, estão projetos que envolvam trabalhar com servidores, com ênfase em protocolos de aplicação.
+Como podem ver, sou muito curioso e estou sempre disposto a aprender novas áreas para expandir o meu conhecimento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
