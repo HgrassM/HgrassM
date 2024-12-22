@@ -1,4 +1,4 @@
-![Banner GIF]()
+![Banner GIF](https://github.com/HgrassM/HgrassM/blob/main/chinese-night-city.gif)
 
 ## Sobre meus projetos ✍
 
