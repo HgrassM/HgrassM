@@ -39,8 +39,7 @@ Possuo experiência com diversas tecnologias comumente utilizadas no mercado de 
 
 ### Frameworks com os quais possuo experiência
 
-* React
-* React Native
+* React/React Native
 
 ### Frameworks que tenho interesse em aprender
 
