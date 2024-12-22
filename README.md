@@ -42,7 +42,7 @@ Possuo experiência com diversas tecnologias comumente utilizadas no mercado de 
   <img src="logos/python-logo.png" width="24" height="24"/>
 </div>
 <div>
-  <p>Assembly Risc-V</p> 
+  <p>Risc-V Assembly</p> 
 </div>
 
 ### Linguagens que tenho interesse em aprender
