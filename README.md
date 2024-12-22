@@ -20,7 +20,7 @@ Como podem ver, sou muito curioso e estou sempre disposto a aprender novas área
 
 ## Tecnologias 🔬
 
-Possuo experiência com diversas tecnologias comumente utilizadas no mercado de trabalho.\
+Possuo experiência com diversas tecnologias comumente utilizadas no mercado de trabalho.
 
 ### Linguagens com as quais possuo experiência
 <div>
