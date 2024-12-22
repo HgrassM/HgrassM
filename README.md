@@ -6,7 +6,7 @@
 
 ## Sobre meus projetos ✍
 
-Aqui você irá encontrar projetos diversos, incluindo programação de baixo e alto nível de abstração.\
+Aqui você irá encontrar projetos diversos, que abordam programação de baixo e alto nível de abstração.\
 Já trabalhei em repositórios que abordam as seguintes áreas:
 
 🔒 Criptografia\
