@@ -1,4 +1,4 @@
-![Banner GIF](https://giphy.com/embed/Oy4nobvUxIonu)
+![Banner GIF]()
 
 ## Sobre meus projetos ✍
 
