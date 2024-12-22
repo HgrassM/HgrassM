@@ -24,23 +24,23 @@ Possuo experiência com diversas tecnologias comumente utilizadas no mercado de 
 
 ### Linguagens com as quais possuo experiência
 
-* GO
-* C/C++
-* Typescript
-* Javascript
-* Java
-* Python
-* Assembly Risc-V
+* GO <img src="logos/go-logo.png" width="24" height="9"/>
+* C/C++ <img src="logos/c-logo.png" width="24" height="28"/> <img src="logos/cpp-logo.png" width="24" height="28"/>
+* Typescript <img src="logos/ts-logo.png" width="24" height="24"/>
+* Javascript <img src="logos/js-logo.png" width="24" height="24"/>
+* Java <img src="logos/java-logo.png" width="24" height="40"/>
+* Python <img src="logos/python-logo.png" width="24" height="24"/>
+* Assembly Risc-V 
 
 ### Linguagens que tenho interesse em aprender
 
-* C#
-* Rust
+* C# <img src="logos/csharp-logo.png" width="24" height="24"/>
+* Rust <img src="logos/rust-logo.png" width="24" height="24"/>
 
 ### Frameworks com os quais possuo experiência
 
-* React/React Native
+* React/React Native <img src="logos/react-logo.png" width="24" height="20"/>
 
 ### Frameworks que tenho interesse em aprender
 
-* FastAPI
+* FastAPI <img src="logos/fastapi-logo.png" width="24" height="9"/>
