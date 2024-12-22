@@ -1,5 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="./chinese-night-city.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./japanese-morning-city.gif">
   <source media="(prefers-color-scheme: dark)" srcset="./chinese-night-city.gif">
   <img src="./chinese-night-city.gif" alt="Banner" width="320" height="320"/>
 </picture>
