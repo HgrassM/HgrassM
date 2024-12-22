@@ -1,4 +1,4 @@
-# Sejam bem-vindos ao meu perfil!
+![Banner GIF](https://giphy.com/embed/Oy4nobvUxIonu)
 
 ## Sobre meus projetos ✍
 
