@@ -24,27 +24,21 @@ Possuo experiência com diversas tecnologias comumente utilizadas no mercado de 
 
 ### Linguagens com as quais possuo experiência
 <div>
-  <p>GO</p>
   <img src="logos/go-logo.png" width="48" height="18"/>
 </div>
 <div>
-  <p>C/C++</p>
   <img src="logos/c-logo.png" width="24" height="28"/> <img src="logos/cpp-logo.png" width="24" height="28"/>
 </div>
 <div>
-  <p>Typescript</p>
   <img src="logos/ts-logo.png" width="24" height="24"/>
 </div>
 <div>
-  <p>Javascript</p>
   <img src="logos/js-logo.png" width="24" height="24"/>
 </div>
 <div>
-  <p>Java</p>
   <img src="logos/java-logo.png" width="24" height="40"/>
 </div>  
 <div>
-  <p>Python</p>
   <img src="logos/python-logo.png" width="24" height="24"/>
 </div>
 <div>
@@ -53,22 +47,18 @@ Possuo experiência com diversas tecnologias comumente utilizadas no mercado de 
 
 ### Linguagens que tenho interesse em aprender
 <div>
-  <p>C#</p>
   <img src="logos/csharp-logo.png" width="24" height="24"/> 
 </div>
 <div>
-  <p>Rust</p>
   <img src="logos/rust-logo.png" width="24" height="24"/>
 </div>
 
 ### Frameworks com os quais possuo experiência
 <div>
-  <p>React/React Native</p>
   <img src="logos/react-logo.png" width="24" height="20"/>
 </div>
 
 ### Frameworks que tenho interesse em aprender
 <div>
-  <p>FastAPI</p>
   <img src="logos/fastapi-logo.png" width="96" height="36"/>
 </div>
