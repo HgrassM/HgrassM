@@ -24,23 +24,23 @@ Possuo experiência com diversas tecnologias comumente utilizadas no mercado de 
 
 ### Linguagens com as quais possuo experiência
 
-<img src="logos/go-logo.png" width="48" height="18"/> GO\
-<img src="logos/c-logo.png" width="24" height="28"/> <img src="logos/cpp-logo.png" width="24" height="28"/> C/C++\ 
-<img src="logos/ts-logo.png" width="24" height="24"/> Typescript\ 
-<img src="logos/js-logo.png" width="24" height="24"/> Javascript\ 
-<img src="logos/java-logo.png" width="24" height="40"/> Java\ 
-<img src="logos/python-logo.png" width="24" height="24"/> Python\ 
+<img src="logos/go-logo.png" width="48" height="18"/> GO \
+<img src="logos/c-logo.png" width="24" height="28"/> <img src="logos/cpp-logo.png" width="24" height="28"/> C/C++ \ 
+<img src="logos/ts-logo.png" width="24" height="24"/> Typescript \ 
+<img src="logos/js-logo.png" width="24" height="24"/> Javascript \ 
+<img src="logos/java-logo.png" width="24" height="40"/> Java \ 
+<img src="logos/python-logo.png" width="24" height="24"/> Python \ 
 Assembly Risc-V 
 
 ### Linguagens que tenho interesse em aprender
 
-* <img src="logos/csharp-logo.png" width="24" height="24"/> C#\ 
-* <img src="logos/rust-logo.png" width="24" height="24"/> Rust\ 
+<img src="logos/csharp-logo.png" width="24" height="24"/> C# \ 
+<img src="logos/rust-logo.png" width="24" height="24"/> Rust \ 
 
 ### Frameworks com os quais possuo experiência
 
-* <img src="logos/react-logo.png" width="24" height="20"/> React/React Native\
+<img src="logos/react-logo.png" width="24" height="20"/> React/React Native \
 
 ### Frameworks que tenho interesse em aprender
 
-* <img src="logos/fastapi-logo.png" width="96" height="36"/> FastAPI\ 
+<img src="logos/fastapi-logo.png" width="96" height="36"/> FastAPI \ 
