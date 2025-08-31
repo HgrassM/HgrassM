@@ -44,18 +44,3 @@ Como podem ver, sou muito curioso e estou sempre disposto a aprender novas área
 <div>
   <p>Risc-V Assembly</p> 
 </div>
-
-### Linguagens que tenho interesse em aprender
-<div>
-  <img src="logos/csharp-logo.png" width="24" height="24"/> 
-</div>
-
-### Frameworks com os quais possuo experiência
-<div>
-  <img src="logos/react-logo.png" width="24" height="20"/>
-</div>
-
-### Frameworks que tenho interesse em aprender
-<div>
-  <img src="logos/fastapi-logo.png" width="96" height="36"/>
-</div>
